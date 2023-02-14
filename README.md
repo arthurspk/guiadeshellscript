@@ -7,7 +7,7 @@
 
 ## :dart: O guia para alavancar a sua carreira
 
-> Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um desenvolvedor ou se especializar em qualquer área de TI. Caso você já atue como desenvolvedor ou em outra área, confira o repositório para descobrir novas ferramentas para o seu dia-a-dia, caminhos possíveis e as tecnologias para incorporar na sua stack com foco em se tornar um profissional atualizado e diferenciado em front-end, back-end, dentre outras.
+> Abaixo você encontrará conteúdos para te guiar e ajudar a aprender como funciona a linguagem Shell Script, o intuito desse repositório e abordar tópicos e sub-tópicos com diversos temas para que você tenha o entendimento total de como funciona o Shell Script e como ele é utilizado, bem como textos, guias, artigos, e ferramentas para que possa tornar seu aprendizado mais simples e prático.
 
 <sub> <strong>Siga nas redes sociais para acompanhar mais conteúdos: </strong> <br>
 [<img src = "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">](https://github.com/arthurspk)
@@ -80,11 +80,11 @@
 [🐲 Trabalhando com usuários e grupos](#) <br>
 [🦏 Trabalhando com redes](#) <br>
 [🐬 Tarefas de administração do sistema](#) <br>
-[🐙 Tarefas de segurança](#) <br>
-[🐙 Boas práticas](#) <br>
-[🦞 Exemplos práticos](#) <br>
+[🐙 Tarefas de segurança utilizando Shell Script](#) <br>
+[🐙 Boas práticas em Shell Script](#) <br>
 [🐰 Interface Gŕafica com Dialog](#) <br>
 [🦝 Módulos de anotações sobre Shell Script](#) <br>
+[🦞 Exemplos práticos de utilização em Shell Script](#) <br>
 
 # 📝 Introdução ao Shell Script
 
