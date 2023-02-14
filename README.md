@@ -7,7 +7,7 @@
 
 ## :dart: O guia para alavancar a sua carreira
 
-> Abaixo você encontrará conteúdos para te guiar e ajudar a aprender como funciona a linguagem Shell Script, o intuito desse repositório e abordar tópicos e sub-tópicos com diversos temas para que você tenha o conceito total de como funciona o Shell Script e como ele é utilizado, bem como textos, guias, artigos, e ferramentas para que possa tornar seu aprendizado mais simples e prático.
+> Abaixo você encontrará conteúdos para te guiar e ajudar a aprender como funciona a linguagem Shell Script, o intuito desse repositório e abordar tópicos e sub-tópicos com diversos temas para que você tenha o conceito total de como funciona o Shell Script e como ele é utilizado, bem como textos, guias, artigos, e ferramentas para que possa tornar seu aprendizado mais simples e prático, faça bom uso do guia e bons estudos.
 
 <sub> <strong>Siga nas redes sociais para acompanhar mais conteúdos: </strong> <br>
 [<img src = "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">](https://github.com/arthurspk)
