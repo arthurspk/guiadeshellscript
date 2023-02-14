@@ -141,3 +141,31 @@ Shell Script é amplamente utilizado na área de Cyber Security para automatizar
 - Debugging e testes: Assim como em qualquer outra linguagem de programação, é importante saber como depurar e testar scripts em Shell Script.
 - Conhecimentos em redes e segurança: Se você pretende usar Shell Script para automação de tarefas de segurança, é importante ter conhecimentos em redes e segurança para entender as vulnerabilidades e riscos que precisam ser abordados.
 - Prática: Shell Script é uma linguagem de programação que exige prática. É importante desenvolver projetos e scripts para consolidar os conhecimentos adquiridos.
+
+> Quais os benefícios de usar o Shell Script?
+
+Há vários benefícios em utilizar o Shell Script, dentre eles estão:
+
+- Automatização de tarefas repetitivas: uma das principais vantagens do Shell Script é a capacidade de automatizar tarefas repetitivas. Isso pode incluir desde a criação de backups automatizados até a instalação de pacotes em múltiplos servidores.
+- Customização de processos: o Shell Script oferece grande flexibilidade para customizar e personalizar processos de acordo com as necessidades do usuário. Isso pode incluir, por exemplo, a criação de scripts específicos para a realização de tarefas específicas.
+- Controle de processos: o Shell Script permite que o usuário tenha maior controle sobre o processo em execução, com a possibilidade de interromper ou ajustar parâmetros durante a execução.
+- Facilidade de manutenção: como o Shell Script é um conjunto de comandos, é relativamente fácil de manter e atualizar. Além disso, o Shell Script é uma linguagem de programação de script interpretada, o que significa que não há necessidade de compilação, facilitando o processo de manutenção.
+- Maior eficiência: o Shell Script é uma linguagem de programação leve, que é executada rapidamente e com baixo consumo de recursos. Isso faz com que os scripts desenvolvidos em Shell Script possam ser executados em uma grande variedade de sistemas, incluindo sistemas mais antigos e com menor poder de processamento.
+- Acesso a uma grande variedade de comandos: o Shell Script é baseado em comandos do sistema operacional, o que significa que o usuário tem acesso a uma grande variedade de comandos pré-existentes, além da possibilidade de criar novos comandos personalizados.
+
+Em resumo, o Shell Script é uma ferramenta poderosa para automação de tarefas, customização de processos, e controle de processos em sistemas baseados em Unix/Linux. Ele pode ser utilizado para economizar tempo e recursos, além de melhorar a eficiência e confiabilidade dos processos de uma empresa ou uso pessoal.
+
+# 🐧 Conceitos básicos do Shell Script
+
+> Nesse tópico será abordado os conceitos básicos para se aprender Shell Script, ou seja o que é fundamental para quem está aprendendo essa linguagem, pois aborda os fundamentos necessários para entender como os scripts em Shell funcionam, alguns exemplos dos fundamentos incluem:
+
+- Interpretação de comandos: O Shell Script é uma linguagem de script interpretada, o que significa que ele executa comandos diretamente no terminal do sistema operacional. Isso significa que o script não precisa ser compilado, o que facilita a criação e a execução de scripts em diferentes plataformas.
+- Comandos básicos: Alguns dos comandos básicos do Shell Script incluem echo, cd, ls, mkdir, rm, touch, entre outros. É importante compreender como esses comandos funcionam e como eles podem ser usados em conjunto para criar scripts mais complexos.
+- Variáveis: Variáveis são usadas para armazenar valores em Shell Script. Elas podem ser usadas para armazenar caminhos de arquivos, nomes de usuários, números, etc. As variáveis são precedidas pelo símbolo $, como por exemplo $HOME para representar o diretório home do usuário atual.
+- Operadores: Existem vários tipos de operadores em Shell Script, incluindo operadores aritméticos (+, -, \*, /), operadores de comparação (>, <, =), operadores lógicos (&&, ||), entre outros. É importante saber como esses operadores funcionam e como usá-los em expressões.
+- Expressões condicionais: As expressões condicionais, como if/else, permitem que você execute determinadas ações com base em condições específicas. É importante saber como essas expressões funcionam e como usá-las para criar scripts mais complexos.
+- Expressões de repetição: As expressões de repetição, como while e for, permitem que você execute determinadas ações repetidamente. É importante saber como essas expressões funcionam e como usá-las para criar scripts mais complexos.
+- Funções: As funções permitem que você agrupe um conjunto de comandos em um único bloco reutilizável. É importante saber como as funções funcionam
+- Redirecionamento de entrada/saída: O redirecionamento de entrada/saída permite que você redirecione o fluxo de entrada ou saída de um comando. Isso pode ser usado para redirecionar a entrada de um arquivo para um comando ou redirecionar a saída de um comando para um arquivo. É importante saber como fazer isso em Shell Script.
+
+Esses são apenas alguns exemplos de conceitos básicos que podem ser abordados em um guia de Shell Script. Entender esses conceitos é fundamental para criar scripts mais complexos e eficientes.
