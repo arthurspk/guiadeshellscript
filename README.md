@@ -115,9 +115,7 @@ Já para uso pessoal, exemplos de aplicações práticas incluem:
 Além dos exemplos citados, existem outras aplicações práticas de Shell Script que podem ser utilizadas tanto em empresas como para uso pessoal. Seguem abaixo alguns exemplos:
 
 - Automação de tarefas de monitoramento: Shell Script pode ser usado para monitorar serviços, processos e recursos do sistema operacional. Por exemplo, é possível criar um script para verificar o uso de CPU e memória do servidor e enviar alertas por e-mail em caso de problemas.
-
 - Configuração de ambientes de desenvolvimento: Shell Script pode ser usado para instalar e configurar ferramentas de desenvolvimento de software em ambientes Linux/Unix. Isso pode economizar tempo e garantir a consistência na configuração de diferentes ambientes de desenvolvimento.
-
 - Gerenciamento de usuários e permissões: Shell Script pode ser usado para criar e gerenciar usuários e grupos do sistema operacional e definir permissões de acesso a arquivos e diretórios.
 - Manipulação de arquivos de texto: Shell Script é uma ferramenta poderosa para manipular arquivos de texto. Por exemplo, é possível criar um script para extrair informações de arquivos de log e gerar relatórios automaticamente.
 - Automação de processos de negócios: Em empresas, Shell Script pode ser usado para automatizar processos de negócios, como geração de faturas, processamento de pedidos, entre outros.
