@@ -52,39 +52,39 @@
 
 > Se você deseja acompanhar esse repositório em outro idioma que não seja o Português Brasileiro, você pode optar pelas escolhas de idiomas abaixo, você também pode colaborar com a tradução para outros idiomas e a correções de possíveis erros ortográficos, a comunidade agradece.
 
-<img src = "https://i.imgur.com/lpP9V2p.png" alt="Guia Extenso de Programação" width="16" height="15">・<b>English — </b> [Click Here](https://github.com/arthurspk/guiadevbrasil)<br>
-<img src = "https://i.imgur.com/GprSvJe.png" alt="Guia Extenso de Programação" width="16" height="15">・<b>Spanish — </b> [Click Here](https://github.com/arthurspk/guiadevbrasil)<br>
-<img src = "https://i.imgur.com/4DX1q8l.png" alt="Guia Extenso de Programação" width="16" height="15">・<b>Chinese — </b> [Click Here](https://github.com/arthurspk/guiadevbrasil)<br>
-<img src = "https://i.imgur.com/6MnAOMg.png" alt="Guia Extenso de Programação" width="16" height="15">・<b>Hindi — </b> [Click Here](https://github.com/arthurspk/guiadevbrasil)<br>
-<img src = "https://i.imgur.com/8t4zBFd.png" alt="Guia Extenso de Programação" width="16" height="15">・<b>Arabic — </b> [Click Here](https://github.com/arthurspk/guiadevbrasil)<br>
-<img src = "https://i.imgur.com/iOdzTmD.png" alt="Guia Extenso de Programação" width="16" height="15">・<b>French — </b> [Click Here](https://github.com/arthurspk/guiadevbrasil)<br>
-<img src = "https://i.imgur.com/PILSgAO.png" alt="Guia Extenso de Programação" width="16" height="15">・<b>Italian — </b> [Click Here](https://github.com/arthurspk/guiadevbrasil)<br>
-<img src = "https://i.imgur.com/0lZOSiy.png" alt="Guia Extenso de Programação" width="16" height="15">・<b>Korean — </b> [Click Here](https://github.com/arthurspk/guiadevbrasil)<br>
-<img src = "https://i.imgur.com/3S5pFlQ.png" alt="Guia Extenso de Programação" width="16" height="15">・<b>Russian — </b> [Click Here](https://github.com/arthurspk/guiadevbrasil)<br>
-<img src = "https://i.imgur.com/i6DQjZa.png" alt="Guia Extenso de Programação" width="16" height="15">・<b>German — </b> [Click Here](https://github.com/arthurspk/guiadevbrasil)<br>
-<img src = "https://i.imgur.com/wWRZMNK.png" alt="Guia Extenso de Programação" width="16" height="15">・<b>Japanese — </b> [Click Here](https://github.com/arthurspk/guiadevbrasil)<br>
+<img src = "https://i.imgur.com/lpP9V2p.png" alt="Guia Extenso de Programação" width="16" height="15">・<b>English — </b> [Click Here](https://github.com/arthurspk/guiadeshellscript)<br>
+<img src = "https://i.imgur.com/GprSvJe.png" alt="Guia Extenso de Programação" width="16" height="15">・<b>Spanish — </b> [Click Here](https://github.com/arthurspk/guiadeshellscript)<br>
+<img src = "https://i.imgur.com/4DX1q8l.png" alt="Guia Extenso de Programação" width="16" height="15">・<b>Chinese — </b> [Click Here](https://github.com/arthurspk/guiadeshellscript)<br>
+<img src = "https://i.imgur.com/6MnAOMg.png" alt="Guia Extenso de Programação" width="16" height="15">・<b>Hindi — </b> [Click Here](https://github.com/arthurspk/guiadeshellscript)<br>
+<img src = "https://i.imgur.com/8t4zBFd.png" alt="Guia Extenso de Programação" width="16" height="15">・<b>Arabic — </b> [Click Here](https://github.com/arthurspk/guiadeshellscript)<br>
+<img src = "https://i.imgur.com/iOdzTmD.png" alt="Guia Extenso de Programação" width="16" height="15">・<b>French — </b> [Click Here](https://github.com/arthurspk/guiadeshellscript)<br>
+<img src = "https://i.imgur.com/PILSgAO.png" alt="Guia Extenso de Programação" width="16" height="15">・<b>Italian — </b> [Click Here](https://github.com/arthurspk/guiadeshellscript)<br>
+<img src = "https://i.imgur.com/0lZOSiy.png" alt="Guia Extenso de Programação" width="16" height="15">・<b>Korean — </b> [Click Here](https://github.com/arthurspk/guiadeshellscript)<br>
+<img src = "https://i.imgur.com/3S5pFlQ.png" alt="Guia Extenso de Programação" width="16" height="15">・<b>Russian — </b> [Click Here](https://github.com/arthurspk/guiadeshellscript)<br>
+<img src = "https://i.imgur.com/i6DQjZa.png" alt="Guia Extenso de Programação" width="16" height="15">・<b>German — </b> [Click Here](https://github.com/arthurspk/guiadeshellscript)<br>
+<img src = "https://i.imgur.com/wWRZMNK.png" alt="Guia Extenso de Programação" width="16" height="15">・<b>Japanese — </b> [Click Here](https://github.com/arthurspk/guiadeshellscript)<br>
 
 ## 📚 ÍNDICE
 
 [📝 Introdução ao Shell Script](#) <br>
 [🐧 Conceitos básicos do Shell Script](#) <br>
-[🐵 Manipulação de arquivos e pastas em Shell Script](#) <br>
-[🐶 Expressões regulares em Shell Script](#) <br>
-[🐼 Debugar código em Shell Script](#) <br>
-[🐺 Caracteres de Controle em Shell Script](#) <br>
-[🐱 Trabalhando com texto em Shell Script](#) <br>
-[🦁 Extração de Dados da Internet em Shell Script](#) <br>
-[🐍 Arquivos de Configuração em Shell Script](#) <br>
+[🐵 Manipulação de Arquivos e Pastas](#) <br>
+[🐶 Expressões Regulares](#) <br>
+[🐼 Debugar Código](#) <br>
+[🐺 Caracteres de Controle](#) <br>
+[🐱 Trabalhando com texto](#) <br>
+[🦁 Extração de Dados da Internet](#) <br>
+[🐍 Arquivos de Configuração](#) <br>
 [🦊 Banco de Dados utilizando Shell Script](#) <br>
-[🐔 Depuração e testes em Shell Script](#) <br>
-[🐲 Trabalhando com usuários e grupos em Shell Script](#) <br>
-[🦏 Trabalhando com redes em Shell Script](#) <br>
-[🐬 Tarefas de administração do sistema em Shell Script](#) <br>
-[🐙 Tarefas de segurança em Shell Script](#) <br>
-[🐙 Boas práticas em Shell Script](#) <br>
-[🦞 Exemplos práticos em Shell Script](#) <br>
+[🐔 Depuração e testes](#) <br>
+[🐲 Trabalhando com usuários e grupos](#) <br>
+[🦏 Trabalhando com redes](#) <br>
+[🐬 Tarefas de administração do sistema](#) <br>
+[🐙 Tarefas de segurança](#) <br>
+[🐙 Boas práticas](#) <br>
+[🦞 Exemplos práticos](#) <br>
 [🐰 Interface Gŕafica com Dialog](#) <br>
-[🦝 Modulos de anotações em Shell Script](#) <br>
+[🦝 Módulos de anotações sobre Shell Script](#) <br>
 
 # 📝 Introdução ao Shell Script
 
