@@ -7,7 +7,7 @@
 
 ## :dart: O guia para alavancar a sua carreira
 
-> Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um desenvolvedor ou se especializar em qualquer área de TI. Caso você já atue como desenvolvedor ou em outra área, confira o repositório para descobrir novas ferramentas para o seu dia-a-dia, caminhos possíveis e as tecnologias para incorporar na sua stack com foco em se tornar um profissional atualizado e diferenciado em front-end, back-end, dentre outras. 
+> Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um desenvolvedor ou se especializar em qualquer área de TI. Caso você já atue como desenvolvedor ou em outra área, confira o repositório para descobrir novas ferramentas para o seu dia-a-dia, caminhos possíveis e as tecnologias para incorporar na sua stack com foco em se tornar um profissional atualizado e diferenciado em front-end, back-end, dentre outras.
 
 <sub> <strong>Siga nas redes sociais para acompanhar mais conteúdos: </strong> <br>
 [<img src = "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">](https://github.com/arthurspk)
@@ -49,6 +49,7 @@
 - Compartilhe o repositório com a sua comunidade
 
 ## 🌍 Tradução
+
 > Se você deseja acompanhar esse repositório em outro idioma que não seja o Português Brasileiro, você pode optar pelas escolhas de idiomas abaixo, você também pode colaborar com a tradução para outros idiomas e a correções de possíveis erros ortográficos, a comunidade agradece.
 
 <img src = "https://i.imgur.com/lpP9V2p.png" alt="Guia Extenso de Programação" width="16" height="15">・<b>English — </b> [Click Here](https://github.com/arthurspk/guiadevbrasil)<br>
@@ -64,6 +65,7 @@
 <img src = "https://i.imgur.com/wWRZMNK.png" alt="Guia Extenso de Programação" width="16" height="15">・<b>Japanese — </b> [Click Here](https://github.com/arthurspk/guiadevbrasil)<br>
 
 ## 📚 ÍNDICE
+
 [📝 Introdução ao Shell Script](#) <br>
 [🐧 Conceitos básicos do Shell Script](#) <br>
 [🐵 Manipulação de arquivos e pastas em Shell Script](#) <br>
@@ -97,12 +99,14 @@ Um script shell é composto de uma sequência de comandos que são executados em
 No dia-a-dia, o Shell Script pode ser utilizado para automação de tarefas repetitivas, tais como backup de arquivos, instalação de softwares, atualização do sistema operacional, etc. Além disso, ele pode ser utilizado em conjunto com outras ferramentas de linha de comando, como o sed, awk, grep, entre outros.
 
 Algumas aplicações práticas de Shell Script em empresas incluem:
+
 - Automação de tarefas de administração do sistema, tais como backups, atualizações, monitoramento de logs e serviços, etc.
 - Criação de scripts de deploy para facilitar a implantação de novas versões de softwares.
 - Criação de scripts de automação de testes de software para agilizar o processo de testes e garantir a qualidade do produto final.
 - Criação de scripts de análise de logs para identificar problemas e realizar a manutenção preventiva do sistema.
 
 Já para uso pessoal, exemplos de aplicações práticas incluem:
+
 - Automatizar tarefas rotineiras, como limpeza de arquivos antigos, organização de pastas, etc.
 - Criar scripts para extrair informações de sites e gerar relatórios automaticamente.
 - Automatizar tarefas relacionadas à manipulação de imagens, como redimensionamento, conversão, etc.
@@ -115,11 +119,8 @@ Além dos exemplos citados, existem outras aplicações práticas de Shell Scrip
 - Configuração de ambientes de desenvolvimento: Shell Script pode ser usado para instalar e configurar ferramentas de desenvolvimento de software em ambientes Linux/Unix. Isso pode economizar tempo e garantir a consistência na configuração de diferentes ambientes de desenvolvimento.
 
 - Gerenciamento de usuários e permissões: Shell Script pode ser usado para criar e gerenciar usuários e grupos do sistema operacional e definir permissões de acesso a arquivos e diretórios.
-
- - Manipulação de arquivos de texto: Shell Script é uma ferramenta poderosa para manipular arquivos de texto. Por exemplo, é possível criar um script para extrair informações de arquivos de log e gerar relatórios automaticamente.
-
+- Manipulação de arquivos de texto: Shell Script é uma ferramenta poderosa para manipular arquivos de texto. Por exemplo, é possível criar um script para extrair informações de arquivos de log e gerar relatórios automaticamente.
 - Automação de processos de negócios: Em empresas, Shell Script pode ser usado para automatizar processos de negócios, como geração de faturas, processamento de pedidos, entre outros.
-
 - Automação de tarefas de backup: Shell Script pode ser usado para automatizar tarefas de backup de arquivos e bancos de dados. Isso pode garantir a segurança e integridade dos dados em caso de falhas do sistema.
 
 Em resumo, o Shell Script é uma ferramenta poderosa para automação de tarefas rotineiras e pode ser usado em diferentes áreas e cenários, desde empresas até uso pessoal. Com um pouco de conhecimento em Shell Script, é possível aumentar a eficiência e produtividade em diferentes atividades.
@@ -129,11 +130,16 @@ Em resumo, o Shell Script é uma ferramenta poderosa para automação de tarefas
 Shell Script é amplamente utilizado na área de Cyber Security para automatizar tarefas de segurança, tais como detecção de vulnerabilidades, análise de logs, monitoramento de tráfego de rede, entre outros. Abaixo estão alguns exemplos de como Shell Script é aplicado na área de Cyber Security:
 
 - Análise de logs: Shell Script pode ser usado para analisar logs de diferentes fontes, como logs do sistema operacional, logs do servidor web, logs de firewall, entre outros. Os logs são analisados em busca de atividades suspeitas, como tentativas de acesso não autorizado, ataques de força bruta, entre outros.
-
 - Detecção de vulnerabilidades: Shell Script pode ser usado para verificar se os sistemas estão vulneráveis a determinadas ameaças. Por exemplo, é possível criar um script que verifica se um sistema está vulnerável a um determinado exploit conhecido.
-
 - Monitoramento de tráfego de rede: Shell Script pode ser usado para monitorar o tráfego de rede e identificar atividades suspeitas, como tráfego de rede incomum, tentativas de acesso não autorizado, entre outros.
-
 - Criação de scripts de resposta a incidentes: Shell Script pode ser usado para criar scripts de resposta a incidentes de segurança. Esses scripts podem conter instruções para bloquear endereços IP suspeitos, desabilitar contas de usuário comprometidas, entre outras ações.
-
 - Automação de tarefas de segurança: Shell Script pode ser usado para automatizar tarefas de segurança, tais como atualizações de segurança, backup de dados, verificação de integridade de arquivos críticos, entre outras.
+
+> O que eu preciso estudar para aprender Shell Script?
+
+- Conhecimento em comandos do terminal: é importante ter conhecimento em comandos do terminal para manipulação de arquivos, pastas e outros recursos do sistema operacional.
+- Lógica de programação: Shell Script é uma linguagem de programação que exige conhecimentos em lógica de programação, tais como estruturas de controle de fluxo, funções, variáveis, entre outros.
+- Manipulação de arquivos e texto: Shell Script é uma linguagem especializada em manipulação de arquivos e texto. É importante ter conhecimentos em manipulação de arquivos e expressões regulares para tirar o máximo proveito do Shell Script.
+- Debugging e testes: Assim como em qualquer outra linguagem de programação, é importante saber como depurar e testar scripts em Shell Script.
+- Conhecimentos em redes e segurança: Se você pretende usar Shell Script para automação de tarefas de segurança, é importante ter conhecimentos em redes e segurança para entender as vulnerabilidades e riscos que precisam ser abordados.
+- Prática: Shell Script é uma linguagem de programação que exige prática. É importante desenvolver projetos e scripts para consolidar os conhecimentos adquiridos.
