@@ -1,0 +1,21 @@
+# Configuração do verificador de links (https://github.com/lycheeverse/lychee)
+# Uso: lychee --no-progress './**/*.md'
+#
+# Domínios que bloqueiam qualquer verificador automatizado (anti-bot / TLS
+# fingerprinting), mesmo com as páginas reais no ar e mesmo trocando a
+# User-Agent. Cada um foi verificado manualmente com HTTP 200 nesta sessão
+# (curl com User-Agent de navegador) antes de entrar aqui:
+# - linkedin.com: responde 999 a qualquer cliente automatizado.
+# - reddit.com: responde 403 ao lychee mesmo com User-Agent de navegador.
+# - ryanstutorials.net: responde 406 ao lychee mesmo com User-Agent de navegador.
+exclude = [
+  "^https://www\\.linkedin\\.com/",
+  "^https://www\\.reddit\\.com/",
+  "^https://ryanstutorials\\.net/",
+]
+
+# Alguns sites (gnu.org quando não bloqueado, facebook.com, doc.guix.gnu.org...)
+# bloqueiam a User-Agent padrão de ferramentas automatizadas mesmo estando no ar.
+# Um User-Agent simples de navegador evita falsos positivos sem afrouxar a
+# verificação (ainda exige HTTP 200).
+user_agent = "Mozilla/5.0"
